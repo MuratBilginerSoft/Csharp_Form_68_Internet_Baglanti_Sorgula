@@ -1,0 +1,14 @@
+C:\Users\mrt_b\Desktop\Kod H Internet Baglanti Sorgula\Kod H Internet Baglanti Sorgula\bin\Debug\Kod H Internet Baglanti Sorgula.exe
+C:\Users\mrt_b\Desktop\Kod H Internet Baglanti Sorgula\Kod H Internet Baglanti Sorgula\bin\Debug\Kod H Internet Baglanti Sorgula.pdb
+C:\Users\mrt_b\Desktop\Kod H Internet Baglanti Sorgula\Kod H Internet Baglanti Sorgula\obj\x86\Debug\Kod_H_Internet_Baglanti_Sorgula.Form1.resources
+C:\Users\mrt_b\Desktop\Kod H Internet Baglanti Sorgula\Kod H Internet Baglanti Sorgula\obj\x86\Debug\Kod_H_Internet_Baglanti_Sorgula.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\Kod H Internet Baglanti Sorgula\Kod H Internet Baglanti Sorgula\obj\x86\Debug\Kod H Internet Baglanti Sorgula.csproj.GenerateResource.Cache
+C:\Users\mrt_b\Desktop\Kod H Internet Baglanti Sorgula\Kod H Internet Baglanti Sorgula\obj\x86\Debug\Kod H Internet Baglanti Sorgula.exe
+C:\Users\mrt_b\Desktop\Kod H Internet Baglanti Sorgula\Kod H Internet Baglanti Sorgula\obj\x86\Debug\Kod H Internet Baglanti Sorgula.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\21 Internet Baglanti Sorgula\Kod H Internet Baglanti Sorgula\obj\x86\Debug\Kod H Internet Baglanti Sorgula.exe
+E:\03 - Yazılım\05 - Büyük Projeler\21 Internet Baglanti Sorgula\Kod H Internet Baglanti Sorgula\obj\x86\Debug\Kod H Internet Baglanti Sorgula.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\21 Internet Baglanti Sorgula\Kod H Internet Baglanti Sorgula\bin\Debug\Kod H Internet Baglanti Sorgula.exe
+E:\03 - Yazılım\05 - Büyük Projeler\21 Internet Baglanti Sorgula\Kod H Internet Baglanti Sorgula\bin\Debug\Kod H Internet Baglanti Sorgula.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\21 Internet Baglanti Sorgula\Kod H Internet Baglanti Sorgula\obj\x86\Debug\Kod_H_Internet_Baglanti_Sorgula.Form1.resources
+E:\03 - Yazılım\05 - Büyük Projeler\21 Internet Baglanti Sorgula\Kod H Internet Baglanti Sorgula\obj\x86\Debug\Kod_H_Internet_Baglanti_Sorgula.Properties.Resources.resources
+E:\03 - Yazılım\05 - Büyük Projeler\21 Internet Baglanti Sorgula\Kod H Internet Baglanti Sorgula\obj\x86\Debug\Kod H Internet Baglanti Sorgula.csproj.GenerateResource.Cache
